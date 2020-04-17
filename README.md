@@ -8,4 +8,5 @@ A new file 'logins.txt' will be created.
 
 ## Usage
 Ubuntu terminal command:
+
 <code>python3 BitwardenJSON.py bitwarden_export_XXXXXXXXXXXXXX.json</code>
