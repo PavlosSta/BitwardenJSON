@@ -3,6 +3,7 @@
 
 ## Getting Started
 Just copy the downloaded Bitwarden's exported JSON to the same folder with BitwardenJSON.py.
+
 A new file 'logins.txt' will be created.
 
 ## Usage
